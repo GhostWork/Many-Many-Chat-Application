@@ -7,4 +7,4 @@ The executables of both, the client and the server are available. A server can h
 
 The source code of client as well as server are available under 'Source Code' directory. 
 
-NOTE: The client, as well as the server function at port 5000. If any application is active at port 5000 before the chat application's execution, the application might not work and vice-versa. In such cases, one needs to close the latter.
+NOTE: The client, as well as the server function at port 5000. If any application is active at port 5000 before the chat application's execution, the application might not work and vice-versa.
